@@ -1,0 +1,8 @@
+.buttons
+{
+    background-color: rgb(117, 129, 135);
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
